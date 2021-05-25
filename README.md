@@ -1,4 +1,4 @@
-### Two’s Complement Checksum for Memory
+# Two’s Complement Checksum for Memory
 
 The purpose of this project is to build a data input system and memory integrated with Checksum
 algorithm by using an FPGA on Basys 3 board. The project is an example of creating a system to
