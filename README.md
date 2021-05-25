@@ -4,17 +4,17 @@ The purpose of this project is to build a data input system and memory integrate
 algorithm by using an FPGA on Basys 3 board. The project is an example of creating a system to
 perform sophisticated computations by combining different components on the FPGA.
 
-##Operation Flow Architecture
+## Operation Flow Architecture
 ![ScreenShot](/Screenshots/1.png)
 
-##User Switches and LEDs for Data and Adress Inputs
+## User Switches and LEDs for Data and Adress Inputs
 ![ScreenShot](/Screenshots/2.png)
 
-##Push Button Operations
+## Push Button Operations
 ![ScreenShot](/Screenshots/3.png)
 
-##Checksum Display Mode
+## Checksum Display Mode
 ![ScreenShot](/Screenshots/4.png)
 
-##Memory Display Mode
+## Memory Display Mode
 ![ScreenShot](/Screenshots/5.png)
